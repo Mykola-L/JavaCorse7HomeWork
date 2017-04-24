@@ -82,16 +82,11 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaCourse7HomeWork/JavaBasic/Module6Task2/Task7.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaCourse7HomeWork/JavaBasic/Module6Task2/Task8.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaCourse7HomeWork/JavaBasic/Module6Task2/Task9.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaCourse7HomeWork/JavaCore/Module1/Task1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaCourse7HomeWork/JavaCore/Module1/Task12.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaCourse7HomeWork/JavaCore/Module1/Task2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaCourse7HomeWork/JavaCore/Test.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaCourse7HomeWork/RandomArray.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/JavaCore/Module1/Task1.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/JavaCore/Module1/Task12.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/JavaCore/Module1/Task2.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/JavaCore/Test.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="368e87e6-1f4b-4bcd-95e8-dd351ec088bd" name="New changelist" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
@@ -120,11 +115,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Task2.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Task2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JavaCore/Module1/Task2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
               <caret line="48" column="47" selection-start-line="48" selection-start-column="47" selection-end-line="48" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/JavaCore/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="30" column="33" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -732,7 +737,14 @@
       <option name="project" value="LOCAL" />
       <updated>1492979914152</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add JavaCore modules">
+      <created>1493017474267</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1493017474267</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -747,10 +759,10 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32976446" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32976446" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32976446" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32976446" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -797,7 +809,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit" />
     <MESSAGE value="Commit2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit2" />
+    <MESSAGE value="Add JavaCore modules" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add JavaCore modules" />
     <option name="PRESELECT_EXISTING_CHANGELIST" value="false" />
   </component>
   <component name="XDebuggerManager">
@@ -1149,17 +1162,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaCore/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="30" column="33" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaCore/Module1/Task2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="48" column="47" selection-start-line="48" selection-start-column="47" selection-end-line="48" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaCore/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="30" column="33" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
           <folding />
         </state>
       </provider>
